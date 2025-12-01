@@ -3,8 +3,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𝗦𝗣𝗜𝗖𝗬+𝗦𝗧𝗥𝗜𝗡𝗚+𝗛𝗔𝗖𝗞+𝗕𝗢𝗧">
 
-#![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spicycodez&repo=SPICYSTRINGHACK&theme=flag-india)
-[![GIF](https://github.com/spicycodez/SPICYSTRINGHACK/blob/main/DAXXTEAM.gif)](https://github.com/spicycodez)
+
+
 #[![SPICYCODEZ](https://github-stats-alpha.vercel.app/api?username=spicycodez "SPICYCODEZ")](https://github-stats-alpha.vercel.app/api?username=spicycodez "SPICYCODEZ")
 
 <p align="center">
