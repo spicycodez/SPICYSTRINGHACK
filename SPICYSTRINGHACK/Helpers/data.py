@@ -41,7 +41,7 @@ info = """
  ● ᴜsᴇʀɴᴀᴍᴇ : @{}
 """
 
-PM_BUTTON = IKM([[IKB("•─╼⃝𖠁 𝐇𝐀𝐂𝐊 𖠁⃝╾─•", callback_data="hack_btn")]])
+PM_BUTTON = IKM([[IKB("• ʜᴀᴄᴋ •", callback_data="hack_btn")]])
 
 
 
