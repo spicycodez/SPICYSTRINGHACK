@@ -1,7 +1,7 @@
 from pyrogram import filters
-from DAXXSTRINGHACK import app , START_PIC
-from DAXXSTRINGHACK.Helpers.data import PM_TEXT,PM_BUTTON,HACK_MODS,HACK_TEXT
-from DAXXSTRINGHACK.Helpers.mongo import add_served_user
+from SPICYSTRINGHACK import app , START_PIC
+from SPICYSTRINGHACK.Helpers.data import PM_TEXT,PM_BUTTON,HACK_MODS,HACK_TEXT
+from SPICYSTRINGHACK.Helpers.mongo import add_served_user
 from pyrogram.types import CallbackQuery
 
 
