@@ -1,9 +1,9 @@
 from pyrogram import filters
 from config import Config
 
-from DAXXSTRINGHACK import app
-from DAXXSTRINGHACK.Helpers.mongo import get_served_chats
-from DAXXSTRINGHACK.Helpers.mongo import get_served_users
+from SPICYSTRINGHACK import app
+from SPICYSTRINGHACK.Helpers.mongo import get_served_chats
+from SPICYSTRINGHACK.Helpers.mongo import get_served_users
 
 IS_BROADCASTING = False
 SUDOERS = Config.SUDOERS
